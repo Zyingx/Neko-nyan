@@ -23,4 +23,4 @@ async def on_message(message):
         await message.channel.send("https://tenor.com/view/noway-gif-254273188714127328")
         return
 
-client.run("MTEzODM3Nzc1MzU0OTM1Mjk4MA.GyLvAb.o_9gglQKoNTOXJ6LfWitJ601P-G5c0EhMnlRf4")
+client.run("")
